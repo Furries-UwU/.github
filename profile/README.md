@@ -12,4 +12,6 @@
 -->
  
  # Furries-UwU
- Lwtss gwwwoooo FWWWWWY!!! OWO
+We are a dumb furry programmers that code in rust, c++ and asm appearently
+
+pls be scared
