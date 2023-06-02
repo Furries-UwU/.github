@@ -12,6 +12,6 @@
 -->
  
  # Furries-UwU
-We are a dumb furry programmers that code in rust, c++ and asm appearently
+We are a reasonably dumb programmers that code in rust and c++ and do game modding ig
 
 pls be scared
